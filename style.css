@@ -1,0 +1,30 @@
+h2{
+    color: orange;
+}
+#firstname{
+    background-color: yellowgreen;
+    color: white;
+    padding: 12px 20px;
+}
+#lastname{
+    background-color: yellowgreen;
+    color: white;
+    padding: 12px 20px;
+}
+#emailid{
+    background-color: yellowgreen;
+    color: white;
+    padding: 12px 20px;
+}
+#message{
+    background-color: yellowgreen;
+    color: white;
+    padding: 12px 20px;
+}
+.button{
+    padding: 12px 20px;
+    color: #4CAF50;
+}
+ ::placeholder{
+    color: white;
+}
